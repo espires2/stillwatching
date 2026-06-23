@@ -10,6 +10,6 @@ body{margin: 20px; font-family: "inter", sans-serif; background-color: #000000; 
 
 /* RESPONSIVE STYLES */
 @media screen and (max-width: 440px) {
-    .navigation{gap:10px;}
+    .navigation{gap:20px;}
     .nav-btn-active, .nav-btn{padding: 2% 3%; font-size: 0.8rem;}
 }
